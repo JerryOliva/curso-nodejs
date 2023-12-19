@@ -35,6 +35,8 @@ for(let i=0; i<10; i++)
 console.log("DEspues de bucle");
 
 // Sintaxis concisa: Recibir las funciones de la promesa en las funciones internas del método .then y .catchgit
+// Method chainning = Cadena de métodos.
+
 pedidoEsfood
     .then((confirma)=>
     {
